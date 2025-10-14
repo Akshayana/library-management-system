@@ -1,7 +1,6 @@
 name: Backend Build and Docker Push
 
 on:
-  workflow_dispatch:
   push:
     branches:
       - master 
